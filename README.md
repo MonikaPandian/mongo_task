@@ -28,3 +28,21 @@
 # 10. Delete the products which product price value are same.
 ![mongo-10](https://user-images.githubusercontent.com/87970544/195860018-58d8407a-771d-4842-8a23-6452e3f21665.PNG)
 
+# 11. Find all the topics and tasks which are thought in the month of October.
+![mongo-11](https://user-images.githubusercontent.com/87970544/195988484-560b3269-ccf2-444b-b409-705a58cef24e.PNG)
+
+# 12. Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020
+![mongo-12](https://user-images.githubusercontent.com/87970544/195988536-fddb392b-35d8-46f7-aa68-5d7285ccfb6d.PNG)
+
+# 13. Find all the company drives and students who are appeared for the placement.
+![mongo-13](https://user-images.githubusercontent.com/87970544/195988570-dcb22694-b776-4155-b34f-f96e7a968c71.PNG)
+
+# 14. Find the number of problems solved by the user in codekata.
+![mongo-14](https://user-images.githubusercontent.com/87970544/195988599-263b8b3e-bd23-41ff-8701-19825c67f7d8.PNG)
+
+# 15. Find all the mentors with who has the mentee's count more than 15.
+![mongo-15](https://user-images.githubusercontent.com/87970544/195988622-cac68e61-6bdb-4931-b377-b01f0c133ba6.PNG)
+
+# 16. Find the number of users who are absent and task is not submitted  between 15 oct-2020 and 31-oct-2020.
+![mongo-16](https://user-images.githubusercontent.com/87970544/195988655-3829fc4b-ab27-4fb8-8ddb-9ba7d207919d.PNG)
+
